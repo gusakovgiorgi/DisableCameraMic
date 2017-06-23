@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisableCameraMic</string>
+    <string name="description_that_shows_on_the_accessibility_page">description</string>
+</resources>
